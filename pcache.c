@@ -32,8 +32,8 @@ int bWillNotNeed = 0;
 int bWillNeed = 0;
 int bShowMemInfo = 0;
 int bProcessSubDir = 0;
-//void
-//ConvertToHumanReadable (long iSize, char buf[])
+
+// void ConvertToHumanReadable (long iSize, char buf[])
 //{
 //  const char *suffixes[] =
 //    { "B", "K", "M", "G", "T", "P", "E" };
